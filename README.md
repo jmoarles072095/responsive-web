@@ -7,3 +7,8 @@
 6. organized and reviewed html and css
 
 # scrennshot 
+
+<img src="Website-Screenshot.png">
+
+# Link
+https://jmoarles072095.github.io/responsive-web/.
