@@ -5,10 +5,9 @@
 4. Uploaded images and created responsive webpage custom to mobile or PC experience
 5. Updated files and modified content across allexisting files
 6. organized and reviewed html and css
+7. Updated and modified files for better layout
+8. created footer for files and finished CSS modifications
 
-# scrennshot 
-
-<img src="Website-Screenshot.png">
 
 # Link
 https://jmoarles072095.github.io/responsive-web/.
