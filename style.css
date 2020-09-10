@@ -50,10 +50,10 @@ p {
     border: solid rgb(239, 122, 122) 5px;
 }
 
-#first,
-#second,
-#third,
-#fourth {
+#column1,
+#column2,
+#column3,
+#column4 {
     display: block;
     margin-left: auto;
     margin-right: auto;
